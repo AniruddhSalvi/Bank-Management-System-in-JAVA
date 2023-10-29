@@ -13,11 +13,11 @@ Hope you Like it..!
 1. Download the [Source Code](https://github.com/AniruddhSalvi/Bank-Management-System-in-JAVA/blob/main/Banking.java)
 2. Ensure that you have installed the latest [JDK](https://www.oracle.com/java/technologies/downloads/) or its LTS version on your machine.
 3. Open your Command Prompt, and navigate to the folder containing the source code
-> Syntax in case the source code is in the same drive as the current: cd <path>
-> If you need to change drive to navigate to the required folder: cd \d <path>
+-> Syntax in case the source code is in the same drive as the current: cd <path>
+-> If you need to change drive to navigate to the required folder: cd \d <path>
 4. After navigating to the required path, compile the Java file by typing:
-> If you haven't changed the file name of the source code: javac Banking.java
-> Else: javac <filename>.java
+-> If you haven't changed the file name of the source code: javac Banking.java
+-> Else: javac <filename>.java
 5. On successful compilation, run the class containing the main function
-> If you haven't changed the class names: java Banking
-> Else: java <name_of_class_containing_main_function>
+-> If you haven't changed the class names: java Banking
+-> Else: java <name_of_class_containing_main_function>
