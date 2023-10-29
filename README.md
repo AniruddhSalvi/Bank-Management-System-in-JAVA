@@ -8,3 +8,16 @@ From this idea many different management projects can be created so feel free to
 
 May the code be helpful to you in your college projects or for your brainstorming.
 Hope you Like it..!
+
+# Instructions to Run the File
+Download the Source Code
+Ensure that you have installed the latest JDK or its LTS version on your machine.
+Open your Command Prompt, and navigate to the folder containing the source code
+> Syntax in case the source code is in the same drive as the current: cd <path>
+> If you need to change drive to navigate to the required folder: cd \d <path>
+After navigating to the required path, compile the Java file by typing:
+> If you haven't changed the file name of the source code: javac Banking.java
+> Else: javac <filename>.java
+On successful compilation, run the class containing the main function
+> If you haven't changed the class names: java Banking
+> Else: java <name_of_class_containing_main_function>
