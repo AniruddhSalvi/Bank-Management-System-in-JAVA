@@ -11,7 +11,7 @@ Hope you Like it..!
 
 # Instructions to Run the File
 * Download the [Source Code](https://github.com/AniruddhSalvi/Bank-Management-System-in-JAVA/blob/main/Banking.java)
-* Ensure that you have installed the latest [JDK](https://www.oracle.com/java/technologies/downloads/) or its LTS version on your machine.
+** Ensure that you have installed the latest [JDK](https://www.oracle.com/java/technologies/downloads/) or its LTS version on your machine.
 Open your Command Prompt, and navigate to the folder containing the source code
 > Syntax in case the source code is in the same drive as the current: cd <path>
 > If you need to change drive to navigate to the required folder: cd \d <path>
